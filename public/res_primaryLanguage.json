@@ -1,0 +1,74 @@
+{
+    "basic_info": {
+      "description_header": "Hello",
+      "description": "My name is Jungsu Kim I am currently a third year student at the University of Calgary studying Computer Science. I have a passion for programming and tech. I love giving back to the community and I plan on doing that through the means of creating projects and programs.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "experience": [
+      {
+        "company": "ProNotesMusic",
+        "title": "Software Developer Intern",
+        "years": "06.2022 - 08.2022",
+        "mainTech": [
+        ],
+        "technologies": [
+          "Dart",
+          "Flutter"
+        ]
+      },
+    
+      {
+        "company": "Algorithmics Airdrie",
+        "title": "Tutor",
+        "years": "01.2022 - Present",
+        "mainTech": [
+        ],
+        "technologies": [
+          "Java",
+          "Python"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Portfolio Website",
+        "images": [
+          "images/Portfolio.png"
+        ],
+        "url": "https://github.com/jungsukim1/PortfolioWebsite"
+      },
+      {
+        "title": "Self-Checkout System",
+        "images": [
+          "images/SelfCheckout.png"
+        ]
+      },
+      {
+        "title": "Blackjack Game",
+        "images": [
+          "images/Blackjack.png"
+        ],
+        "url": "https://github.com/jungsukim1/CPSCProjectL2"
+      },
+      {
+        "title": "Effective Study Website",
+        "images": [
+          "images/EffectiveStudy.png"
+        ],
+        "url": "https://github.com/jungsukim1/Effective-Study"
+      },
+      {
+        "title": "Mario Kart Spin Off",
+        "images": [
+          "images/MarioKart.png"
+        ]
+
+      }
+    ]
+   
+  }

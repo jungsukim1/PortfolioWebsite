@@ -1,0 +1,64 @@
+{
+    "basic_info": {
+      "name": "Jungsu Kim",
+      "titles": [ "Computer Science Student", "Software Engineer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/jungsukim1",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/jungsu-kim-8679a0232/",
+          "class": "fab fa-linkedin"
+        }
+      ]
+
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain"
+        },
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": "65"
+        },
+        {
+          "name": "Flutter",
+          "class": "devicon-flutter-plain"
+        },
+        {
+          "name": "Dart",
+          "class": "devicon-dart-plain"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain"
+        }
+      ]
+    }
+  }
