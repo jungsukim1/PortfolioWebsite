@@ -48,6 +48,10 @@
           "level": "65"
         },
         {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain"
+        },
+        {
           "name": "Flutter",
           "class": "devicon-flutter-plain"
         },
@@ -58,6 +62,10 @@
         {
           "name": "MySql",
           "class": "devicon-mysql-plain"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain"
         }
       ]
     }
